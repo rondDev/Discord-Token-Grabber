@@ -1,2 +1,2 @@
 # Discord Token Grabber
- Gets discord token form ldb files
+Improved version of: https://github.com/NYAN-x-CAT/Discord-Token-Grabber
